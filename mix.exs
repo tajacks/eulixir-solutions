@@ -22,7 +22,7 @@ defmodule Eulixir.MixProject do
 
   defp deps do
     [  {:benchee, "~> 1.0", only: :dev},
-       {:multitool, "~> 0.3.1"}
+       {:multitool, "~> 0.3.4"}
     ]
   end
 
